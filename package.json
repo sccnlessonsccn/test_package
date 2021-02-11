@@ -1,6 +1,6 @@
 {
-  "name": "@testprinter/test_package",
-  "version": "1.0.0",
+  "name": "@sccnlessonsccn/test_package",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/sccnlessonsccn/test_package/issues"
   },
-  "homepage": "https://github.com/sccnlessonsccn/test_package#readme"
+  "homepage": "https://github.com/sccnlessonsccn/test_package#readme",
+  "type": "module"
 }
